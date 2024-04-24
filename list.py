@@ -1,0 +1,10 @@
+shashi=[10,20,30,40,50]
+rohini=[60,70,80,90,100]
+priya=shashi+rohini
+print(priya)
+print(type(shashi))
+print(type(priya))
+print(priya*2)
+print(len(priya))
+print(max(priya))
+print(min(priya))

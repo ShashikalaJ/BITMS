@@ -1,0 +1,12 @@
+a=(10,20,30,40,50)
+b=(60,70,80,90,100)
+c=a+b
+print(c)
+print(type(a))
+print(type(c))
+print(max(c))
+print(min(c))
+print(len(c))
+print(len(b))
+print(len(a))
+print(type(b))
