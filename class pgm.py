@@ -1,4 +1,4 @@
-'''class Mango:
+class Mango:
     def __init__(self):
         print("this is what?")
     def balaji(self):
@@ -15,11 +15,6 @@ man=Mango()
 man.balaji()
 man.shetty(10,20.5)
 man.magicalprime(101)
-man.neon(7)'''
+man.neon(7)
 
-n=input("enter a number")
-if(n==n^2):
-      printf("neon number")
-else:
-      print("not neon")
       
